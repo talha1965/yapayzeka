@@ -1,0 +1,2 @@
+# yapayzeka
+CNN uygulaması
